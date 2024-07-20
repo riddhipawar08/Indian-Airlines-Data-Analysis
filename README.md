@@ -12,6 +12,10 @@ Using Power BI, I transformed raw airline data into meaningful visualizations. H
 
 These insights empower data-driven decisions to optimize flight operations and pricing strategies. 
 ![airlines1](https://github.com/user-attachments/assets/6c79e7bd-220d-426c-8b83-3da1c737d5c7)
+<br>
+<br>
 ![airlines2](https://github.com/user-attachments/assets/69a28493-4b8f-4f1b-b404-9e3674a1472c)
+<br>
+<br>
 ![airlines3](https://github.com/user-attachments/assets/b1d7bcb5-02de-4a49-bb9f-d6295d81fcec)
 
